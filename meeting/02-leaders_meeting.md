@@ -1,8 +1,15 @@
+---
+Time: 12:30 pm
+Date: December 16 2017
+Venue: KSUM
+---
+
 # 02 — Leaders Meeting
 
-Time             | Date        | Venue
----------------- | ----------- | -----
-12:30 to 2:30 pm | Dec 16 2017 | KSUM
+### Agenda
+
+- Decide on plan of action
+- Get to know each other
 
 ## Minutes
 
