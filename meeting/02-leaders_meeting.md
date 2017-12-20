@@ -1,4 +1,4 @@
-# 2017:02 — Leaders Meeting
+# 02 — Leaders Meeting
 
 Time             | Date        | Venue
 ---------------- | ----------- | -----
