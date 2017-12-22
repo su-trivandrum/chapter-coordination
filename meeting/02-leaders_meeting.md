@@ -22,7 +22,7 @@ Venue: KSUM
 
 - [Deepu S Nath][deepu]
 - [Jikku Jose][jikku]
-- Niyas Mohammed
+- [Niyas Mohammed][niyas]
 - [Rejah Rehim][rejah]
 - Rashmi S
 - Michle Mathews
@@ -31,3 +31,4 @@ Venue: KSUM
 [jikku]: https://github.com/jikkujose
 [deepu]: https://github.com/deepusnath
 [rejah]: https://github.com/rejahrehim
+[niyas]: https://github.com/niazangels
